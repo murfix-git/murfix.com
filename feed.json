@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Murfix",
+    "description": "",
+    "home_page_url": "https://murphyfixes.com",
+    "feed_url": "https://murphyfixes.com/feed.json",
+    "user_comment": "",
+    "icon": "https://murphyfixes.com/media/website/Murfix-Green-Screen-Photoroom.png",
+    "author": {
+        "name": "Levi Murphy"
+    },
+    "items": [
+        {
+            "id": "https://murphyfixes.com/established-in-2025/",
+            "url": "https://murphyfixes.com/established-in-2025/",
+            "title": "Established in 2025",
+            "summary": "Murfix was established in 2025 to help reduce e-waste in the world, and help victims of planned obsolescence reclaim their tech.",
+            "content_html": "<p>Murfix was established in 2025 to help reduce e-waste in the world, and help victims of planned obsolescence reclaim their tech.</p>",
+            "author": {
+                "name": "Levi Murphy"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-15T14:44:37-05:00",
+            "date_modified": "2025-12-15T14:44:37-05:00"
+        }
+    ]
+}

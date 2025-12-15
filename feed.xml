@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Murfix</title>
+    <link href="https://murphyfixes.com/feed.xml" rel="self" />
+    <link href="https://murphyfixes.com" />
+    <updated>2025-12-15T14:44:37-05:00</updated>
+    <author>
+        <name>Levi Murphy</name>
+    </author>
+    <id>https://murphyfixes.com</id>
+
+    <entry>
+        <title>Established in 2025</title>
+        <author>
+            <name>Levi Murphy</name>
+        </author>
+        <link href="https://murphyfixes.com/established-in-2025/"/>
+        <id>https://murphyfixes.com/established-in-2025/</id>
+
+        <updated>2025-12-15T14:44:37-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Murfix was established in 2025 to help reduce e-waste in the world, and help victims of planned obsolescence reclaim their tech.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Murfix was established in 2025 to help reduce e-waste in the world, and help victims of planned obsolescence reclaim their tech.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
